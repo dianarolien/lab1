@@ -1,0 +1,23 @@
+Script started on 2016年03月06日 (週日) 17時19分50秒
+]0;F74046200@2015cpp: ~F74046200@2015cpp:~$ whoami; pwd
+F74046200
+/home/F74046200
+]0;F74046200@2015cpp: ~F74046200@2015cpp:~$ gitconfig-1[Kl -l
+gitconfig: command not found
+]0;F74046200@2015cpp: ~F74046200@2015cpp:~$ gitconfig -l[1Pwhoami; pwdgitconfig -l[C[C[C[1@ 
+]0;F74046200@2015cpp: ~F74046200@2015cpp:~$  gitclonehttps://github.com/<your githubaccount>/lab1.git[C[1P
+bash: your: No such file or directory
+]0;F74046200@2015cpp: ~F74046200@2015cpp:~$ gitclonehttps://github.com/<your githubaccount>/lab1.git[C[C[1@ [C[C[C[C[C[1@ 
+bash: your: No such file or directory
+]0;F74046200@2015cpp: ~F74046200@2015cpp:~$ git clone https://github.com/<your githubaccount>/lab1.git
+bash: your: No such file or directory
+]0;F74046200@2015cpp: ~F74046200@2015cpp:~$ git clone https://github.com/<your githubaccount>/lab1.git[C[C[1P[1P[1P[1P githubaccount>/lab1.git[1Pgithubaccount>/lab1.git[1Pithubaccount>/lab1.git[1Pthubaccount>/lab1.git[1Phubaccount>/lab1.git[1Pubaccount>/lab1.git[1Pbaccount>/lab1.git[1Paccount>/lab1.git[1Pccount>/lab1.git[C[1Pount>/lab1.git[1Pount>/lab1.git[1Punt>/lab1.git[1Pnt>/lab1.git[1Pt>/lab1.git[1P>/lab1.gitd>/lab1.giti>/lab1.gita>/lab1.gitn>/lab1.gita>/lab1.gitr>/lab1.gito>/lab1.gitl>/lab1.giti>/lab1.gite>/lab1.gitn>/lab1.git
+bash: dianarolien: No such file or directory
+]0;F74046200@2015cpp: ~F74046200@2015cpp:~$ git clone https://github.com/<dianarolien>/lab1.git[C[1P/lab1.git[C[1Pdianarolien/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;F74046200@2015cpp: ~F74046200@2015cpp:~$ exit
+
+Script done on 2016年03月06日 (週日) 17時23分02秒
